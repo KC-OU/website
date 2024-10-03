@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/archive/</loc>
+    <loc>kcretro.kierancollins.co.uk/archive/</loc>
     <lastmod>2020-01-30T12:50:46+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>kcretro.kierancollins.co.uk/</loc>
     <lastmod>2020-01-30T12:50:46+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>kcretro.kierancollins.co.uk/categories/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/iis/</loc>
+    <loc>kcretro.kierancollins.co.uk/tags/iis/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/linux/</loc>
+    <loc>kcretro.kierancollins.co.uk/categories/linux/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/move-website-linux-iis/</loc>
+    <loc>kcretro.kierancollins.co.uk/move-website-linux-iis/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>kcretro.kierancollins.co.uk/posts/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>kcretro.kierancollins.co.uk/tags/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/windows-10/</loc>
+    <loc>kcretro.kierancollins.co.uk/tags/windows-10/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/windows-server/</loc>
+    <loc>kcretro.kierancollins.co.uk/categories/windows-server/</loc>
     <lastmod>2015-12-26T05:41:50+00:00</lastmod>
   </url>
 </urlset>
