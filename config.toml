@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://christitus.com/"
+baseURL = "retro.kierancollins.co.uk"
 title = "KC RETRO REVIEW SITE | Retro Gaming Review Site"
 # theme
 theme = "northendlab"
@@ -80,7 +80,7 @@ icon_font = "Font Awesome 5 Free"
 
 ######################## sidebar widgets #########################
 [params.widgets]
-sidebar = ["toc", "google"]
+sidebar = ["toc","categories"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 # preloader
@@ -131,26 +131,16 @@ attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
 [[params.social]]
 icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
 link = "https://github.com/KC-OU"
-
-# - [] need to do indeed username and url
-
- 
-# [[params.social]]
-#icon = "fab fa-linkedin" # Fontawesome icon pack https://fontawesome.com/icons
-#link = "https://www.linkedin.com/in/ctitus/"
 ####################### Banner #######################################
 
 ######################## About Me Widget ###############################
-[about_me]
-title = "Kieran Collins"
-bio = ""
+#[about_me]
+#title = "Kieran Collins"
+#bio = ""
 
 [[params.social_profile]]
 icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
 link = "https://github.com/kc-ou"
-#[[params.social_profile]]
-#icon = "fab fa-linkedin" # Fontawesome icon pack https://fontawesome.com/icons
-#link = "https://www.linkedin.com/in/ctitus/"
 
 ######################## call to action ###############################
 [params.cta]
