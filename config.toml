@@ -80,7 +80,7 @@ icon_font = "Font Awesome 5 Free"
 
 ######################## sidebar widgets #########################
 [params.widgets]
-sidebar = ["toc","categories"]
+sidebar = ["toc","google"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 # preloader
@@ -160,15 +160,87 @@ weight = 1
 url = "/"
 name = "Home"
 
-#[[menu.main]]
-#weight = 6
-#url = "#"
-#name = "Sections"
-#hasChildren = true
+[[menu.main]]
+weight = 2
+url = "#"
+name = "Emulators"
+hasChildren = true
   
-#[[menu.main]]
-    #name = "Android"
-    #url = "/categories/android"
-    #parent = "Sections"
+[[menu.main]]
+    name = "Gameboy"
+    url = "/categories/gameboy"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Gameboy Advance"
+    url = "/categories/gameboyadvance"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Gameboy Color"
+    url = "/categories/gameboycolor"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Gamecube"
+    url = "/categories/gamecube"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Nintendo 3DS"
+    url = "/categories/Nintendo3DS"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Nintendo 64"
+    url = "/categories/nintendo64"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Nintendo DS"
+    url = "/categories/nintendods"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Nintendo Wii"
+    url = "/categories/nintendowii"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Nintendo Wii U"
+    url = "/categories/nintendowiiu"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Playstation 1"
+    url = "/categories/playstation1"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Playstation 2"
+    url = "/categories/playstation2"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Playstation 3"
+    url = "/categories/playstation3"
+    parent = "Emulators"
+
+[[menu.main]]
+    name = "Playstation Portable"
+    url = "/categories/playstationportable"
+    parent = "Emulators"
+
+[[menu.main]]
+    weight = 3
+    url = "https://retroachievements.org/user/KieranCollins"
+    name = "Retro Achievements"
+
+[[menu.main]]
+    weight = 4
+    url = "https://www.mobygames.com/"
+    name = "Moby Games"
+
+
 
 ############################# Footer Menu ########################
