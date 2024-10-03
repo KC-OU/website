@@ -1,6 +1,6 @@
 ############################ Default configuration #########################
 baseURL = ""
-title = "KC RETRO REVIEW SITE | Retro Gaming Review Site"
+title = "KC RETRO REVIEW SITE | Retro Gaming Review and walthroughs"
 # theme
 theme = "northendlab"
 languageCode = "en-gb"
@@ -80,7 +80,7 @@ icon_font = "Font Awesome 5 Free"
 
 ######################## sidebar widgets #########################
 [params.widgets]
-sidebar = ["toc","google"]
+sidebar = ["toc", "categories", "tags"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 # preloader
@@ -163,81 +163,155 @@ name = "Home"
 [[menu.main]]
 weight = 2
 url = "#"
-name = "Emulators"
+name = "Game Reviews"
 hasChildren = true
   
 [[menu.main]]
     name = "Gameboy"
     url = "/categories/gameboy"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Gameboy Advance"
     url = "/categories/gameboyadvance"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Gameboy Color"
     url = "/categories/gameboycolor"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Gamecube"
     url = "/categories/gamecube"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Nintendo 3DS"
     url = "/categories/Nintendo3DS"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Nintendo 64"
     url = "/categories/nintendo64"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Nintendo DS"
     url = "/categories/nintendods"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Nintendo Wii"
     url = "/categories/nintendowii"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Nintendo Wii U"
     url = "/categories/nintendowiiu"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Playstation 1"
     url = "/categories/playstation1"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Playstation 2"
     url = "/categories/playstation2"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Playstation 3"
     url = "/categories/playstation3"
-    parent = "Emulators"
+    parent = "Game Reviews"
 
 [[menu.main]]
     name = "Playstation Portable"
     url = "/categories/playstationportable"
-    parent = "Emulators"
+    parent = "Game Reviews"
+
+############################# Game Walkthoughts ########################
 
 [[menu.main]]
-    weight = 3
+weight = 3
+url = "#"
+name= "Game Walthroughs"
+hasChildren = true
+  
+[[menu.main]]
+    name = "Gameboy - Walthroughs"
+    url = "/categories/gameboy-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Gameboy Advance-Walthroughs"
+    url = "/categories/gameboyadvance-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Gameboy Color-Walthroughs"
+    url = "/categories/gameboycolor-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Gamecube - Walthroughs"
+    url = "/categories/gamecube-walthroughs-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Nintendo 3DS - Walthroughs"
+    url = "/categories/Nintendo3DS-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Nintendo 64 - Walthroughs"
+    url = "/categories/nintendo64-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Nintendo DS - Walthroughs"
+    url = "/categories/nintendods-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Nintendo Wii - Walthroughs"
+    url = "/categories/nintendowii-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Nintendo Wii U - Walthroughs"
+    url = "/categories/nintendowiiu-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Playstation 1 - Walthroughs"
+    url = "/categories/playstation1-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Playstation 2 - Walthroughs"
+    url = "/categories/playstation2-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Playstation 3 - Walthroughs"
+    url = "/categories/playstation3-walthroughs"
+    parent = "Game Walthroughs"
+
+[[menu.main]]
+    name = "Playstation Portable - Walthroughs"
+    url = "/categories/playstationportable-walthroughs"
+    parent = "Game Walthroughs"
+
+########################## Links ########################
+[[menu.main]]
+    weight = 4
     url = "https://retroachievements.org/user/KieranCollins"
     name = "Retro Achievements"
 
 [[menu.main]]
-    weight = 4
+    weight = 5
     url = "https://www.mobygames.com/"
     name = "Moby Games"
 
