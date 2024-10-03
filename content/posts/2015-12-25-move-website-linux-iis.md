@@ -9,7 +9,7 @@ categories:
   - Gameboy
 tags:
   - Gameboy
-draft: true
+draft: false
 ---
 Donec elementum convallis libero ut luctus. Morbi pharetra auctor varius. In hac habitasse platea dictumst. Sed eget egestas purus, at semper orci. Donec rhoncus neque turpis, a faucibus leo aliquet vel. Nunc egestas, metus ac gravida facilisis, erat eros interdum ligula, et varius mauris odio nec odio. Suspendisse potenti. In malesuada neque diam, ut euismod lectus interdum id. Mauris dictum semper arcu quis aliquam.
 
