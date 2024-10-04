@@ -176,22 +176,22 @@ hasChildren = true
 
 [[menu.main]]
     name = "gameboy"
-    url = "/categories/boy"
+    url = "/categories/gameboy"
     parent = "Reviews"
 
 [[menu.main]]
     name = "gameboy Advance"
-    url = "/categories/boyadvance"
+    url = "/categories/gameboyadvance"
     parent = "Reviews"
 
 [[menu.main]]
     name = "gameboy Color"
-    url = "/categories/boycolor"
+    url = "/categories/gameboycolor"
     parent = "Reviews"
 
 [[menu.main]]
     name = "gamecube"
-    url = "/categories/cube"
+    url = "/categories/gamecube"
     parent = "Reviews"
 
 [[menu.main]]
@@ -247,19 +247,19 @@ hasChildren = true
   
 [[menu.main]]
     name = "gameboy - Walthroughs"
-    url = "/categories/boy-walthroughs"
+    url = "/categories/gameboy-walthroughs"
     parent = "Walthroughs"
 [[menu.main]]
     name = "gameboy Advance-Walthroughs"
-    url = "/categories/boyadvance-walthroughs"
+    url = "/categories/gameboyadvance-walthroughs"
     parent = "Walthroughs"
 [[menu.main]]
     name = "gameboy Color-Walthroughs"
-    url = "/categories/boycolor-walthroughs"
+    url = "/categories/gameboycolor-walthroughs"
     parent = "Walthroughs"
 [[menu.main]]
     name = "gamecube - Walthroughs"
-    url = "/categories/cube-walthroughs-walthroughs"
+    url = "/categories/gamecube-walthroughs-walthroughs"
     parent = "Walthroughs"
 [[menu.main]]
     name = "Nintendo 3DS-Walthroughs"
@@ -306,5 +306,5 @@ hasChildren = true
 
 [[menu.main]]
     weight = 5
-    url = "https://www.mobys.com/"
+    url = "https://www.mobygames.com/"
     name = "Moby G"

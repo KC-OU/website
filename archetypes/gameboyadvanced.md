@@ -3,17 +3,16 @@ title: "{{ replace .Name "-" " " | title }}"
 
 date: {{ now.Format "2006-01-02" }}
 url: /{{ .Name }}/
-image: images//{{ .Name }}.jpg
+image: images/gameboyadvanced-walkthroughts/{{ .Name }}.jpg
 categories:
-  - Linux
-  - Windows
-  - Networking
+    - gameboyadvance-walthroughs
 tags:
-  - Ubuntu
+  - Gameboy Advanced
+  - {{ .Name }}
 draft: true
 ---
 <!--more-->
 
 ## Walkthrough Video
 
-{{< youtube "WVQ_2hN_zzs" >}}
+{{< youtube "g2cZgF7fcNI" >}}
