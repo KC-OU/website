@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = ""
+baseURL = "https://kcretro.kierancollins.co.uk/"
 title = "KC RETRO REVIEW SITE | Retro Gaming Review and Game Walthroughs"
 # theme
 theme = "northendlab"
