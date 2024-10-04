@@ -242,62 +242,61 @@ hasChildren = true
 [[menu.main]]
 weight = 3
 url = "#"
-name= "Walthroughs"
+name= "Walkthroughs"
 hasChildren = true
   
 [[menu.main]]
-    name = "gameboy - Walthroughs"
-    url = "/categories/gameboy-walthroughs"
+    name = "GB Walkthroughs"
+    url = "/categories/gameboy-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "GBA-Walthroughs"
+    url = "/categories/gameboyadvance-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "GBC-Walkthroughs"
+    url = "/categories/Gameboy-Color-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "GC - Walthroughs"
+    url = "/categories/gamecube-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "N3DS Walkthroughs"
+    url = "/categories/Nintendo3DS-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "N64 - Walkthroughs"
+    url = "/categories/nintendo64-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "NDS-Walkthroughs"
+    url = "/categories/nintendo-ds-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "Wii-Walkthroughs"
+    url = "/categories/nintendo-wii-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "WiiU-Walkthroughs"
+    url = "/categories/nintendo-wiiu-walkthroughs"
+    parent = "Walkthroughs"
+[[menu.main]]
+    name = "PS1-Walkthroughs"
+    url = "/categories/playstation-1-walkthroughs"
     parent = "Walthroughs"
 [[menu.main]]
-    name = "gameboy Advance-Walthroughs"
-    url = "/categories/gameboyadvance-walthroughs"
-    parent = "Walthroughs"
+    name = "PS2-Walkthroughs"
+    url = "/categories/playstation-2-walkthroughs"
+    parent = "Walkthroughs"
 [[menu.main]]
-    name = "gameboy Color-Walthroughs"
-    url = "/categories/gameboycolor-walthroughs"
-    parent = "Walthroughs"
+    name = "PS3-Walkthroughs"
+    url = "/categories/playstation-3-walkthroughs"
+    parent = "Walkthroughs"
 [[menu.main]]
-    name = "gamecube - Walthroughs"
-    url = "/categories/gamecube-walthroughs-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Nintendo 3DS-Walthroughs"
-    url = "/categories/Nintendo3DS-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Nintendo 64 - Walthroughs"
-    url = "/categories/nintendo64-walthroughs"
-    parent = "Walthroughs"
-
-[[menu.main]]
-    name = "Nintendo DS-Walthroughs"
-    url = "/categories/nintendods-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Nintendo Wii-Walthroughs"
-    url = "/categories/nintendowii-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Nintendo Wii U-Walthroughs"
-    url = "/categories/nintendowiiu-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Playstation 1-Walthroughs"
-    url = "/categories/playstation1-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Playstation 2-Walthroughs"
-    url = "/categories/playstation2-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Playstation 3-Walthroughs"
-    url = "/categories/playstation3-walthroughs"
-    parent = "Walthroughs"
-[[menu.main]]
-    name = "Playstation Portable-Walthroughs"
-    url = "/categories/playstationportable-walthroughs"
-    parent = "Walthroughs"
+    name = "PSP-Walkthroughs"
+    url = "/categories/playstation-portable-walkthroughs"
+    parent = "Walkthroughs"
 ########################## Links ########################
 [[menu.main]]
     weight = 4
