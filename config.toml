@@ -252,7 +252,7 @@ hasChildren = true
 [[menu.main]]
     name = "gameboy Advance-Walthroughs"
     url = "/categories/boyadvance-walthroughs"
-    parent = " Walthroughs"
+    parent = "Walthroughs"
 [[menu.main]]
     name = "gameboy Color-Walthroughs"
     url = "/categories/boycolor-walthroughs"
@@ -302,9 +302,9 @@ hasChildren = true
 [[menu.main]]
     weight = 4
     url = "https://retroachievements.org/user/KieranCollins"
-    name = "Retro Achievements"
+    name = "Retro A"
 
 [[menu.main]]
     weight = 5
     url = "https://www.mobys.com/"
-    name = "Moby s"
+    name = "Moby G"
