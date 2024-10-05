@@ -11,7 +11,7 @@ tags:
   - FireRed
   - LeafGreen
   - Pokemon
-draft: true
+draft: false
 ---
 
 The story of Pokémon FireRed & LeafGreen is the traditional Pokémon story. It's the remake of the games that started everything after all. You're a 10-year-old kid who, after receiving their starter Pokémon from Professor Oak, sets out on their Pokémon journey across the Kanto region.
