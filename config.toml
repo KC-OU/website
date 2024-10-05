@@ -175,68 +175,68 @@ name = "Reviews"
 hasChildren = true
 
 [[menu.main]]
-    name = "gameboy"
+    name = "GB"
     url = "/categories/gameboy"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "gameboy Advance"
+    name = "GBA"
     url = "/categories/gameboyadvance"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "gameboy Color"
+    name = "GBC"
     url = "/categories/gameboycolor"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "gamecube"
+    name = "GC"
     url = "/categories/gamecube"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Nintendo 3DS"
-    url = "/categories/Nintendo3DS"
+    name = "3DS"
+    url = "/categories/nintendo-3ds"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Nintendo 64"
-    url = "/categories/nintendo64"
+    name = "N64"
+    url = "/categories/nintendo-64"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Nintendo DS"
-    url = "/categories/nintendods"
+    name = "NDS"
+    url = "/categories/nintendo-ds"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Nintendo Wii"
-    url = "/categories/nintendowii"
+    name = "Wii"
+    url = "/categories/nintendo-wii"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Nintendo Wii U"
-    url = "/categories/nintendowiiu"
+    name = "WiiU"
+    url = "/categories/nintendo-wiiu"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Playstation 1"
-    url = "/categories/playstation1"
+    name = "PS1"
+    url = "/categories/playstation-1"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Playstation 2"
-    url = "/categories/playstation2"
+    name = "PS2"
+    url = "/categories/playstation-2"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Playstation 3"
-    url = "/categories/playstation3"
+    name = "PS3"
+    url = "/categories/playstation-3"
     parent = "Reviews"
 
 [[menu.main]]
-    name = "Playstation Portable"
-    url = "/categories/playstationportable"
+    name = "PSP"
+    url = "/categories/playstation-portable"
     parent = "Reviews"
 #############################  Walkthoughts ########################
 [[menu.main]]
@@ -284,7 +284,7 @@ hasChildren = true
 [[menu.main]]
     name = "PS1-Walkthroughs"
     url = "/categories/playstation-1-walkthroughs"
-    parent = "Walthroughs"
+    parent = "Walkthroughs"
 [[menu.main]]
     name = "PS2-Walkthroughs"
     url = "/categories/playstation-2-walkthroughs"
